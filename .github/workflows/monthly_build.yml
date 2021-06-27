@@ -14,7 +14,7 @@ jobs:
             with:
               ref: master
           - name: Monthly build
-            uses: HurricanKai/Publish-Docker-Github-Action@master
+            uses: HurricanKai/Publish-Docker-Github-Action@1.12.1
             with:
               name: monolithprojects/systemd-rockylinux8
               username: monolithprojects
