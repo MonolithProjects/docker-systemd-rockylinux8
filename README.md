@@ -3,7 +3,7 @@
 [![GitHub Actions](https://github.com/MonolithProjects/docker-systemd-rockylinux8/workflows/Dockerfile%20test/badge.svg?branch=master)](https://github.com/MonolithProjects/docker-systemd-rockylinux8/actions)
 [![DockerHub-layers](https://img.shields.io/microbadger/layers/monolithprojects/systemd-rockylinux8)](https://hub.docker.com/repository/docker/monolithprojects/systemd-rockylinux8)
 [![DockerHub-pulls](https://img.shields.io/docker/pulls/monolithprojects/systemd-rockylinux8)](https://hub.docker.com/repository/docker/monolithprojects/systemd-rockylinux8)
-[![DockerHub](https://img.shields.io/docker/cloud/automated/monolithprojects/systemd-rockylinux8?maxAge=2592000)](https://hub.docker.com/repository/docker/monolithprojects/systemd-rockylinux8)
+[![DockerHub](https://img.shields.io/docker/cloud/automated/monolithprojects/systemd-rockylinux8)](https://hub.docker.com/repository/docker/monolithprojects/systemd-rockylinux8)
 
 Docker image with rockylinux8 and enabled systemd. Image is updated with the latest software updates on the 1st day in the month. Image contains also `ansible` user (UID/GID 1000) with NOPASSWD:ALL sudo rights.  
 
