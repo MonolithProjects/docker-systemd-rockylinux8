@@ -1,6 +1,6 @@
 # Rocky Linux 8 Ansible Test Image
 
-[![GitHub Actions](https://github.com/MonolithProjects/docker-systemd-rockylinux8/workflows/Monthly%20build/badge.svg?branch=master)](https://github.com/MonolithProjects/docker-systemd-rockylinux8/actions)
+[![GitHub Actions](https://github.com/MonolithProjects/docker-systemd-rockylinux8/workflows/Monthly%20build/badge.svg?branch=main)](https://github.com/MonolithProjects/docker-systemd-rockylinux8/actions)
 [![DockerHub-layers](https://img.shields.io/microbadger/layers/monolithprojects/systemd-rockylinux8)](https://hub.docker.com/repository/docker/monolithprojects/systemd-rockylinux8)
 [![DockerHub-pulls](https://img.shields.io/docker/pulls/monolithprojects/systemd-rockylinux8)](https://hub.docker.com/repository/docker/monolithprojects/systemd-rockylinux8)
 [![DockerHub](https://img.shields.io/docker/cloud/automated/monolithprojects/systemd-rockylinux8)](https://hub.docker.com/repository/docker/monolithprojects/systemd-rockylinux8)
