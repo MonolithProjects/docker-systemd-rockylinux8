@@ -12,7 +12,7 @@ jobs:
           - name: Checkout
             uses: actions/checkout@v2
             with:
-              ref: master
+              ref: main
           - name: Monthly build
             uses: HurricanKai/Publish-Docker-Github-Action@1.12.1
             with:
