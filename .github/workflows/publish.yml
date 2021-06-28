@@ -12,7 +12,7 @@ jobs:
           - name: Checkout
             uses: actions/checkout@v2
           - name: Publish
-            uses: elgohr/Publish-Docker-Github-Action@master@3.0.4
+            uses: elgohr/Publish-Docker-Github-Action@3.0.4
             with:
               name: monolithprojects/systemd-rockylinux8
               username: monolithprojects
